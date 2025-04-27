@@ -4,11 +4,20 @@
 
 ## Example Outputs
 ### Image Classification
-![Image](https://github.com/shbzbarb/VisionNet/blob/main/classification1.png)
-![Image](https://github.com/shbzbarb/VisionNet/blob/main/classification2.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shbzbarb/VisionNet/blob/main/classification1.png?raw=true" alt="Classification Example 1" width="200"/>
+      <br/> </td>
+    <td align="center">
+       <img src="https://github.com/shbzbarb/VisionNet/blob/main/classification2.png?raw=true" alt="Classification Example 2" width="200"/>
+      <br/>
+      </td>
+  </tr>
+</table>
 
 ### Image Similarity Search
-![Image](https://github.com/shbzbarb/VisionNet/blob/main/imageSimilarity.png)
+<img src="https://github.com/shbzbarb/VisionNet/blob/main/imageSimilarity.png?raw=true" alt="Image Similarity Search Example" width="400"/>
 
 ## Overview
 The idea behind this project is to use existing open-source resources for image analysis tasks specifically image feature extraction, image classification and image similarity search. The project leverages deep learning models to understand image content and a vector database for efficient retrieval of similar images.
